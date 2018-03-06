@@ -1,0 +1,14 @@
+D:\CalculadoraCompleta\CalculadoraCompleta\bin\Release\CalculadoraCompleta.exe
+D:\CalculadoraCompleta\CalculadoraCompleta\bin\Release\CalculadoraCompleta.pdb
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.frmCalc.resources
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.Properties.Resources.resources
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.csproj.GenerateResource.Cache
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.exe
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.pdb
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\bin\Release\CalculadoraCompleta.exe
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\bin\Release\CalculadoraCompleta.pdb
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.frmCalc.resources
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.Properties.Resources.resources
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.csproj.GenerateResource.Cache
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.exe
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Release\CalculadoraCompleta.pdb
