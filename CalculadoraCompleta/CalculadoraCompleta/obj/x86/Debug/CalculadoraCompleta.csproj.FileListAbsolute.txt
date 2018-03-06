@@ -1,0 +1,12 @@
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.frmCalc.resources
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.Properties.Resources.resources
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.csproj.GenerateResource.Cache
+D:\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+D:\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.exe
+D:\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.pdb
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.exe
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.pdb
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.frmCalc.resources
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.Properties.Resources.resources
+G:\3 ano\Técnico\DS\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.csproj.GenerateResource.Cache
